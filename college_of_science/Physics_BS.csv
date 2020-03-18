@@ -1,0 +1,46 @@
+Curriculum,Physics,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.2101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,(Intro Chem),CHEM,151,,,,4,,,1
+2,MATH  (Calculus I),,,,,,3,,,1
+3,First Year Composition,ENGL,101,,,,3,,,1
+4,Tier I General Education,,,,,,3,,,1
+5,Tier I General Education,,,,,,3,,,1
+6,(Mechanics),PHYS,141,,,,4,,,2
+7,(Calculus II),MATH,129,,,,3,,,2
+8,First Year Composition,ENGL,102,,,,3,,,2
+9,Tier I General Education,,,,,,3,,,2
+10,Tier I General Education,,,,,,3,,,2
+11,(Thermo, Optics),PHYS,142,,,,4,,,3
+12,(Vector Calc),MATH,223,,,,4,,,3
+13,(Intro Diff Eqn),MATH,254,,,,3,,,3
+14,Tier II General Education,,,,,,3,,,3
+15,(Intro Computing),PHYS,105A,,,,1,,,3
+16,(Elec. & Mag.),PHYS,241,,,,4,,,4
+17,(Modern Physics,PHYS,263H,,,,3,,,4
+18,(Math Meth),PHYS,204,,,,3,,,4
+19,Tier II General Education,,,,,,3,,,4
+20,Elective,,,,,,3,,,4
+21,(Comput Phys),PHYS,305,,,,3,,,5
+22,(Classical Mech),PHYS,321,,,,3,,,5
+23,(Intermed E&M I),MATH,331,,,,3,,,5
+24,Tier II General Education,,,,,,3,,,5
+25,Second Language,,,,,,4,,,5
+26,(Intermed E & M II),PHYS,332,,,,3,,,6
+27,(Advanced Lab I),PHYS,381,,,,2,,,6
+28,(Quantum Theory I),PHYS,371,,,,3,,,6
+29,Elective,,,,,,3,,,6
+30,Second Language,,,,,,4,,,6
+31,(Quantum Theory II),PHYS,472,,,,3,,,7
+32,(Thermo/Stat Mech),PHYS,426,,,,3,,,7
+33,(Advanced Lab II),PHYS,382,,,,2,,,7
+34,PHYS Application,,,,,,3,,,7
+35,PHYS Elective,,,,,,3,,,7
+36,Elective,,,,,,3,,,8
+37,PHYS Elective,,,,,,3,,,8
+38,Elective,,,,,,3,,,8
+39,Elective,,,,,,3,,,8
