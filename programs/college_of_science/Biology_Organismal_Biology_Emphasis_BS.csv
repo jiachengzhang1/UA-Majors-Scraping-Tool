@@ -1,0 +1,46 @@
+Curriculum,Biology Organismal Biology Emphasis,,,,,,,,,
+Degree Plan,2019 Degree Plan,,,,,,,,,
+Institution,University of Arizona,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.01,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,General Chemistry I,CHEM,151,,2,,4,,,1
+2,Calculus I,MATH,122A&B,,,,5,,,1
+3,First Year Composition,ENGL,101,,,,3,,,1
+4,Tier I,,,,,,3,,,1
+5,General Chemistry II,CHEM,152,1,2,,4,,,2
+6,Introductory Biology II,ECOL,182R,,,,3,,,2
+7,Introductory Biology II Lab,ECOL,182L,,,,1,,,2
+8,Calculus II,MATH,129,,,,3,,,2
+9,First Year Composition,ENGL,102,3,,,3,,,2
+10,Lectures in Organic Chemistry,CHEM,241A,5,,,3,,,3
+11,Organic Chemistry Laboratory I,CHEM,243A,,10,,1,,,3
+12,Introductory Biology I,MCB,181R,,,,3,,,3
+13,Introductory Biology I Lab,MCB,181L,,12,,1,,,3
+14,Core course,ECOL,200,,,,3,,,3
+15,Second Language,,,,,,4,,,3
+16,Lectures in Organic Chemistry,CHEM,241B,10,,,3,,,4
+17,Organic Chemistry Laboratory II,CHEM,243B,11,,,1,,,4
+18,Tier I,,,,,,3,,,4
+19,Second Language,,,,,,4,,,4
+20,UD Organismal Elective,,,,,,4,,,4
+21,Genetics,ECOL,320,6;7,,,4,,,5
+22,UD Organismal Elective,,,,,,4,,,5
+23,UD EEB Elective,EEB,,,,,4,,,5
+24,Foundations in Biochemistry,BIOC,384,5;10;12,,,3,,,5
+25,Evolutionary Biology,ECOL,335,6;7,,,4,,,6
+26,UD PSIO Elective,PSIO,,,,,4,,,6
+27,Tier I,,,,,,3,,,6
+28,Tier II,,,,,,3,,,6
+29,Ecology,ECOL,302,6;7;8,,,4,,,7
+30,Introductory Physics I,PHYS,102,2,,,3,,,7
+31,Introductory Laboratory I,PHYS,181,2,,,1,,,7
+32,UD Cell Bio Elective,,,,,,3,,,7
+33,Tier II,,,,,,3,,,7
+34,UD Genetics Elective,,,,,,3,,,7
+35,Introductory Physics II,PHYS,103,30,,,3,,,8
+36,Introductory Laboratory II,PHYS,182,30;31,,,1,,,8
+37,Tier II,,,,,,3,,,8
+38,UD Cell Bio Elective,,,,,,3,,,8

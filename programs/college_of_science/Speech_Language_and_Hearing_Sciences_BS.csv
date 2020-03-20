@@ -1,0 +1,48 @@
+Curriculum,Speech Language and Hearing Sciences,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,51.0204,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,First-Year Composition,ENGL,101,,,,3,,,1
+2,Elements of Calculus,MATH,113,,,,3,,,1
+3,Tier I General Education,,,,,,3,,,1
+4,Tier I General Education,,,,,,3,,,1
+5,General Elective (SLHS 207 recommended),,,,,,3,,,1
+6,Frist-Year Composition,ENGL,102,1,,,3,,,2
+7,Trigonometry or MATH 120R Precalculus,MATH,111,2,,,2,,,2
+8,Second Language,,,,,,4,,,2
+9,Physical Science (CHEM 151 or Physics/lab),,,2,,,4,,,2
+10,Tier I General Education,,,,,,3,,,2
+11,Second Language,,,,,,4,,,3
+12,Biological Science with lab,,,,,,4,,,3
+13,Tier I General Education,,,,,,3,,,3
+14,Acoustics,SLHS,267,7,,,3,,,3
+15,Social Science,,,,,,1,,,3
+16,Tier II General Education,,,,,,3,,,4
+17,Tier II General Education,,,,,,3,,,4
+18,General Elective,,,,,,3,,,4
+19,Anatomy and Physiology of the Speech Mechanism,SLHS,261,,,,4,,,4
+20,Speech Science,SLHS,367,,,,3,,,4
+21,Tier II General Education,,,,,,3,,,5
+22,General Elective,,,,,,3,,,5
+23,General Elective,,,,,,3,,,5
+24,Language Science,SLHS,340,,,,3,,,5
+25,Neurobiology of Communication,SLHS,362,,,,3,,,5
+26,Statistics,,,,,,3,,,6
+27,General Elective,,,,,,3,,,6
+28,General Elective,,,,,,3,,,6
+29,Upper Division General Elective,,,,,,3,,,6
+30,Hearing Science,SLHS,380,14,,,4,,,6
+31,Upper Division General Elective (SLHS 495A recommended),,,,,,1,,,7
+32,Upper Division General Elective,,,,,,3,,,7
+33,Upper Division General Elective (SLHS 471 recommended),,,,,,3,,,7
+34,Communication Disorders 1,SLHS,477,14;19,,,3,,,7
+35,Principles of Audiology,SLHS,483R,14;30,,36,3,,,7
+36,Laboratory in Principles of Audiology ,SLHS,483L,,,35,1,,,7
+37,General Elective,,,,,,1,,,8
+38,Upper Division General Elective,,,,,,3,,,8
+39,Upper Division General Elective,,,,,,3,,,8
+40,Communication Disorders 2,SLHS,473,24;34,,,3,,,8
+41,Language Acquisition,SLHS,441,24,,,3,,,8
