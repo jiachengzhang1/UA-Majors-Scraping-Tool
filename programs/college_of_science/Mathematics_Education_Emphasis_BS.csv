@@ -1,0 +1,42 @@
+Curriculum,Mathematics Education Emphasis,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,27.03,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I,MATH,122A/B,,,,4,,,1
+2,First-Year Composition,ENGL,101,,,,0,,,1
+3,Tier I General Education,,,,,,0,,,1
+4,Second Language,,,,,,0,,,1
+5,General Elective,,,,,,0,,,1
+6,Calculus II,MATH,129,1,,,0,,,2
+7,Supporting Computer Science,,,,,,0,,,2
+8,First-Year Composition,ENGL,102,2,,,0,,,2
+9,Tier I General Education,,,,,,0,,,2
+10,Second Language,,,,,,0,,,2
+11,Teaching Mathematics,MATH,205,6,,,0,,,3
+12,Vector Calculus,MATH,223,6,,,0,,,3
+13,Intro to Linear Algebra,MATH,313,6,,,0,,,3
+14,Supporting Laboratory Science,,,,,,0,,,3
+15,Tier I General Education,,,,,,0,,,3
+16,Intro Num Thry + Mod Alg,MATH,315,13,,,0,,,4
+17,Anls Ord Diff Equations,MATH,355,6,,,0,,,4
+18,EDP Child/Adolescent Dev,EDP,301,,,,0,,,4
+19,Survey of Exceptional Students,SERP,400,,,,0,,,4
+20,Supporting Laboratory Science,,,14,,,0,,,4
+21,Formal Math Reasong + Wrtg,MATH,323,13,,,0,,,5
+22,Topics in Geometry,MATH,330,13,,,0,,,5
+23,Us & Az Constitution,POL,210,,,,0,,,5
+24,Structured English Immersion course,,,,,,0,,,5
+25,Tier I General Education,,,,,,0,,,5
+26,Elements of Stats using Calc,MATH,361,12,,,0,,,6
+27,Curr+Assmnt Sec Sch Math,MATH,406A,11;18;22,,,0,,,6
+28,Lit In Multicultural Sch,TLS,435,,,,0,,,6
+29,Tier II General Education,,,,,,0,,,6
+30,Tier II General Education,,,,,,0,,,6
+31,History Of Math,MATH,404,21,,,0,,,7
+32,Meth Tch Math Sec School,MATH,406B,27,,,0,,,7
+33,Synthesis/Math Concepts,MATH,407,16;21;22,,,0,,,7
+34,Tier II General Education,,,,,,0,,,7
+35,Sec Math Teach Practicum,MATH,494C,32,,,0,,,8

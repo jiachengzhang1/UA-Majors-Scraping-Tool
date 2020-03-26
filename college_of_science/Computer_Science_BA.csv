@@ -10,11 +10,11 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 3,College Algebra,MATH,112,,,,3,,,1
 4,1st Semester Second Language,,,,,,4,,,1
 5,Introduction to Computer Programming I,CSC,110,,,,4,,,2
-6,English Composition II,ENGL,102,,,,3,,,2
+6,English Composition II,ENGL,102,2,,,3,,,2
 7,2nd Semester Second Language,,,,,,4,,,2
 8,Tier I General Education,,,,,,3,,,2
 9,Tier I General Education,,,,,,3,,,2
-10,Introduction to Computer Programming II,CSC,120,,,,4,,,3
+10,Introduction to Computer Programming II,CSC,120,5,,,4,,,3
 11,3rd Semester Second Language,,,,,,4,,,3
 12,Minor Course,,,,,,3,,,3
 13,Tier I General Education,,,,,,3,,,3

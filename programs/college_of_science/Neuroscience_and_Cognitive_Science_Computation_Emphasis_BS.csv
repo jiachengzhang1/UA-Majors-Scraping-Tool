@@ -1,0 +1,48 @@
+Curriculum,Neuroscience and Cognitive Science Computation Emphasis,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,First-Year Composition,ENGL,101,,,,3,,,1
+2,Second Language,,,,,,4,,,1
+3,A Functions for Calculus,MATH,122A,,,4,1,,,1
+4,First-Semester Calculus,MATH,122B,3,,,4,,,1
+5,General Chemistry,CHEM,151,,,,4,,,1
+6,First-Year Composition,ENGL,102,1,,,3,,,2
+7,Second Language,,,,,,4,,,2
+8,Foundation Focus 1,,,,,,4,,,2
+9,Intro Psychology,PSY,101,,,,3,,,2
+10,Intro Biology,MCB,181R,,,,3,,,3
+11,Intro Lab I,MCB,181L,,10,,1,,,3
+12,Consciousness & Cognition,PHIL,241,,,,3,,,3
+13,Tier I General Education,,,,,,3,,,3
+14,Foundation Focus 2,,,,,,4,,,3
+15,Fundamentals of Neurosci & Cog Sci,NSCS,200,10,,,3,,,4
+16,Statistics,,,,,,3,,,4
+17,Tier I General Education,,,,,,3,,,4
+18,Tier I General Education,,,,,,3,,,4
+19,General Elective,,,,,,3,,,4
+20,Cellular Neurophysiology,NSCS,307,10;11,,,3,,,5
+21,Methods in Neuroscience,NSCS,308,15,,,1,,,5
+22,Intro Physics I,PHYS,102,4,,,3,,,5
+23,Intro Lab I,PHYS,181,4,,,1,,,5
+24,Scientific Programming w/MATLAB,NSCS,311,,,,3,,,5
+25,Tier II General Education,,,,,,3,,,5
+26,Major Focus 1,,,,,,3,,,6
+27,Foundation Focus 3,,,,,,4,,,6
+28,Emphasis Elective 1,,,,,,3,,,6
+29,Emphasis Elective 2,,,,,,3,,,6
+30,Tier I General Education,,,,,,3,,,6
+31,Issues & Themes in Cognitive Science,NSCS,320,15,,,3,,,7
+32,Methods in Cognitive Science,NSCS,321,15,,,1,,,7
+33,Emphasis Elective 3,,,,,,3,,,7
+34,Emphasis Elective 4,,,,,,3,,,7
+35,Tier II General Education,,,,,,3,,,7
+36,General Elective (UD),,,,,,3,,,7
+37,Major Focus 2,,,,,,3,,,8
+38,Emphasis Elective 5,,,,,,3,,,8
+39,Tier II General Education,,,,,,3,,,8
+40,General Elective (UD),,,,,,3,,,8
+41,General Elective (UD),,,,,,3,,,8
