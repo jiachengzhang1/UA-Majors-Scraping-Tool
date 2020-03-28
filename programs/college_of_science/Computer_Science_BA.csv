@@ -1,0 +1,44 @@
+﻿Curriculum,Computer Science,,,,,,,,,
+Degree Plan,2019-20 Degree Plan,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Introduction to Computer Science,CSC,101,,,,4,,,1
+2,English Composition I,ENGL,101,,,,3,,,1
+3,College Algebra,MATH,112,,,,3,,,1
+4,1st Semester Second Language,,,,,,4,,,1
+5,Introduction to Computer Programming I,CSC,110,,,,4,,,2
+6,English Composition II,ENGL,102,2,,,3,,,2
+7,2nd Semester Second Language,,,,,,4,,,2
+8,Tier I General Education,,,,,,3,,,2
+9,Tier I General Education,,,,,,3,,,2
+10,Introduction to Computer Programming II,CSC,120,5,,,4,,,3
+11,3rd Semester Second Language,,,,,,4,,,3
+12,Minor Course,,,,,,3,,,3
+13,Tier I General Education,,,,,,3,,,3
+14,Tier I General Education,,,,,,3,,,3
+15,Software Development,CSC,210,10,,,4,,,4
+16,Introduction to Discrete Structures,CSC,245,10,,,4,,,4
+17,4th Semester Second Language,,,,,,4,,,4
+18,Minor Course,,,,,,3,,,4
+19,Computer Organization,CSC,252,15,,,3,,,5
+20,Systems Programming & Unix,CSC,352,15,,,3,,,5
+21,Minor Course,,,,,,3,,,5
+22,Tier I General Education,,,,,,3,,,5
+23,Tier I General Education,,,,,,3,,,5
+24,Object-Oriented Programming,CSC,335,15,,,4,,,6
+25,Analysis of Discrete Structures,CSC,345,15;16,,,4,,,6
+26,Minor Course,,,,,,3,,,6
+27,Tier II General Education,,,,,,3,,,6
+28,Elective,CSC,400-Level,,,,3,,,7
+29,Minor Upper-Division Course,,,,,,3,,,7
+30,Upper-Division Elective,,,,,,3,,,7
+31,Tier II General Education,,,,,,3,,,7
+32,Tier II General Education,,,,,,3,,,7
+33,Elective,CSC,400-Level,,,,3,,,8
+34,Minor Upper-Division Course,,,,,,3,,,8
+35,Upper-Division Elective,,,,,,3,,,8
+36,Tier II General Education,,,,,,3,,,8
+37,Upper-Division Elective,,,,,,3,,,8
